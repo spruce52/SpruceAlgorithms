@@ -1,2 +1,2 @@
 # SpruceAlgorithms
-Algorithms
+## Easy algorithms, EulerProject and Leetcode
